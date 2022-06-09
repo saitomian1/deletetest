@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record_update table="sys_user_role">
+  <sys_user_role action="INSERT_OR_UPDATE">
+    <assignable_by/>
+    <can_delegate>true</can_delegate>
+    <description/>
+    <elevated_privilege>false</elevated_privilege>
+    <grantable>true</grantable>
+    <includes_roles/>
+    <name>x_yunji_delete02.x_yunji_delete02_a_user</name>
+    <requires_subscription>-1</requires_subscription>
+    <scoped_admin>false</scoped_admin>
+    <suffix/>
+    <sys_class_name>sys_user_role</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2022-06-09 14:37:58</sys_created_on>
+    <sys_effective>true</sys_effective>
+    <sys_id>793bc5d7ede643c79f4d3c94ccc8532f</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_name/>
+    <sys_package/>
+    <sys_policy/>
+    <sys_scope>befe57ffe798458c8436c4e6a869a2bb</sys_scope>
+    <sys_update_name/>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2022-06-09 14:37:58</sys_updated_on>
+  </sys_user_role>
+</record_update>
